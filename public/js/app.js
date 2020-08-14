@@ -1,14 +1,3 @@
-// const forecast = require("../../src/utils/forecast");
-
-console.log("Client side javascript");
-
-// fetch("http://puzzle.mead.io/puzzle").then((response)=>{
-//     response.json().then((data)=>{
-//        console.log(data);
-//     })
-// })
-
-
 
 const Form=document.querySelector("form")
 const search=document.querySelector("input")
